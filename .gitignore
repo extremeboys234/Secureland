@@ -1,0 +1,60 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+
+# Original attachment copies are retained at the project root; publish docs/ copies
+/SecureLand Project Report.pdf
+/SecureLand Project Requirements.pdf
+
+# Dependencies and generated frontend output
+node_modules/
+dist/
+dist-ssr/
+coverage/
+*.tsbuildinfo
+
+# Local document/database data
+/storage/
+storage/
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+
+# Logs, session artifacts, and operating-system files
+*.log
+*.pid
+cookie.txt
+*.cookies
+sess_*
+.DS_Store
+Thumbs.db
+
+# Editor and temporary files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*.swo
+*.tmp
+*.bak
+*.backup
+*.debug
+
+# Local debug/test helpers; production API endpoints and migrations remain tracked
+/debug_upload.php
+/test_upload.php
+/test_upload_debug.php
+/test_ini.php
+/session_test.php
+/check_limits.php
+/login.php
+/documents/debug_upload.php
+/documents/test_upload_debug.php
+/documents/upload_debug.php

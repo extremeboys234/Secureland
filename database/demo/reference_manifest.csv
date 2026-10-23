@@ -1,0 +1,4 @@
+reference_id,filename,sha256,file_size_bytes,approval_status,note
+SL-REF-0001,SL-REF-0001_Demo_Property_Record.pdf,70a8cf139d840de0a1c474799f785640a6fd4a79941286e25b30adbf4d7e1d2e,3072,APPROVED (DEMO ONLY),Fictional reference; hash is for exact included PDF bytes
+SL-REF-0002,SL-REF-0002_Demo_Property_Record.pdf,2cf66ce319ccbf6c3e16f79d79811ee79c303ef2aeaa201936688cc3f8f486b0,3070,APPROVED (DEMO ONLY),Fictional reference; hash is for exact included PDF bytes
+SL-REF-0003,SL-REF-0003_Demo_Property_Record.pdf,6e1341c59125f3619ab93cc8419229544d97f1a82eae00be90bda633bf9e7bc0,3083,APPROVED (DEMO ONLY),Fictional reference; hash is for exact included PDF bytes
